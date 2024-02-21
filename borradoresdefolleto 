@@ -1,0 +1,337 @@
+﻿<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Estatútos Sociales del Intercongreso Contoni. INTERCONGRESO CONTONI</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/favicon.ico" />
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<META NAME="author" CONTENT="Pedro Antonio Lopez.">
+<META NAME="Generator" CONTENT="Manual">
+<meta name="title" content="Estatútos Sociales del Intercongreso Contoni."/>
+<meta name="description" content="Estatútos Sociales del Intercongreso Contoni. La Venezuela Libre de las 7 estrellas. La Reina del Sur."/>
+<meta name="keywords" content="flujograma, estatútos, organigrama, organigramas, principios, principio, guia, guias, ayuda, ayudas, cuidadana, ciudadanas, ciudadano, ciudadanos, metodo, metodos, autogestionario, autogestionarios, autogestionaria, autogestionarias, autogestionado, autogestionada, soberano, soberana, soberanos, soberanas, decano, decanos, educacion, educaciones, educación, trabajo, trabajos, laboral, laborales, laborables, proyecto, proyectos, sugerencia, sugerencias, papeles, universidad, universidades, industria, industrias,  propuesta, propuestas, constitucion, carta, cartas, magna, poder,, poderes, libertad, ley, leyes, venezuela, bandera, justicia, nuevo, fabrica, fabricas,  fabricacion, artesania, artesanias, artesano, empleo, muestra, maestro, comision, comisiones, estudiante, estudiantes, vida, vidas, mejor, mejoramiento, productivo, productivos, productividad, ciencia, ciencias, politica, politicas, democracia, participativa, participativas, directa, directo, bienestar, bienestares, atribuion, atribuciones, retribucion, retribuciones, economia, economias, moral, moralista, social, socialista, socialistas, socialismo, comun, común, comunismo, endogeno, endogenos, modulo, modulos, banco, bancos, todo, todos, casa, hogar, casas, hogares, organizacion, organización organizaciones, instituto, institucion, institución, instituciones, programadores, web,organigrama, diagrama, flujo, diagramas, flujos, libertad, libre, libred, judicial, judiciales, justicia, justa, jurisdiccion, jurisdicción, juridiscciones, creadores, proyecto, proyectos, asamblea, productivo, productiva, productividad, generación, generacion. generaciones, genera, modelo, modelos, ejemplo, ejemplos, respeto, respetar, atribuir, atribucion, atribución, atribuciones, industrias, industria, persona, personal, familia, familiar, familiares, aquello, aquella, aquellos, aquellas, circunstancia, circunstancias, poder, popular, populismo, popularidad, municipio, municipios, estado, estados, distrito, federal, fererado, capital, capitalismo, noricia, noticias, venezuela, venezolanos, mundo, nuevo, orden, mundial, campaña, publicidad, publica, publicado, publicada, gaceta, noticia, noticias, noticiero, gobierno, autogobierno, regla, reglas">
+<meta name="distribution" content="global">
+<meta name="robots" content="All"/>
+<META NAME="authoring_tool" CONTENT="Manual">
+<META NAME="distribution" CONTENT="global">
+<META NAME="resource-type" CONTENT="document">
+	<meta name="twitter:card" content="photo" />
+<meta name="twitter:site" content="@intercongreso" />
+<meta name="twitter:title" content="Estatútos Sociales del Intercongreso Contoni." />
+<meta name="twitter:description" content="Estatútos Sociales del Intercongreso Contoni. La Venezuela la de las 7 extrellas. La Reina del Sur." />
+<meta name="twitter:image" content="https://intercongreso.vps.co.ve/folleto/logonegro3.jpg"/>
+<meta name="twitter:url" content="https://intercongreso.vps.co.ve/folleto/estatútos.htm" />
+<meta property="og:title" content="Estatútos Sociales del Intercongreso Contoni.">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Estatútos Sociales del Intercongreso Contoni.">
+<meta property="og:url" content="https://intercongreso.vps.co.ve/folleto/estatútos.htm">
+<meta property="og:image" content="https://intercongreso.vps.co.ve/folleto/logonegro3.jpg">
+<style>
+.logo img {
+	
+  width: 100%;
+  height: 100%;
+  
+}
+</style>
+<style>
+.botones img {
+	
+  width: 70%;
+  height: 100px;
+  
+}
+</style>
+<style>
+.compartir img {
+  
+  max-width: 18%;
+  height: auto;
+
+}
+</style>
+<script type="text/javascript">
+	function speak(text, language) {
+		var s = new SpeechSynthesisUtterance(text);
+		s.lang = language;	speechSynthesis.speak(s);
+	}
+	function speakArticle() {
+		var container = document.getElementsByTagName("article")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle1() {
+		var container = document.getElementsByTagName("article1")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle2() {
+		var container = document.getElementsByTagName("article2")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+    function speakArticle3() {
+		var container = document.getElementsByTagName("article3")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+     function speakArticle4() {
+		var container = document.getElementsByTagName("article4")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle5() {
+		var container = document.getElementsByTagName("article5")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle6() {
+		var container = document.getElementsByTagName("article6")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle7() {
+		var container = document.getElementsByTagName("article7")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle8() {
+		var container = document.getElementsByTagName("article8")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+onload = function() {
+    if ('speechSynthesis' in window){
+        var synth = speechSynthesis;
+        var flag = false;
+        var stopEle = document.querySelector('#stop');
+        stopEle.addEventListener('click', onClickStop);
+var voices = [];
+function populateVoiceList() {
+  voices = synth.getVoices().sort(function (a, b) {
+      const aname = a.name.toUpperCase(), bname = b.name.toUpperCase();
+      if ( aname < bname ) return -1;
+      else if ( aname == bname ) return 0;
+      else return +1;
+  });
+  var selectedIndex = voiceSelect.selectedIndex < 0 ? 0 : voiceSelect.selectedIndex;
+  voiceSelect.innerHTML = '';
+  for(i = 0; i < voices.length ; i++) {
+    var option = document.createElement('option');
+    option.textContent = voices[i].name + ' (' + voices[i].lang + ')';
+    if(voices[i].default) {
+      option.textContent += ' -- DEFAULT';
+    }
+    option.setAttribute('data-lang', voices[i].lang);
+    option.setAttribute('data-name', voices[i].name);
+    voiceSelect.appendChild(option);
+  }
+  voiceSelect.selectedIndex = selectedIndex;
+}
+populateVoiceList();
+if (speechSynthesis.onvoiceschanged !== undefined) {
+  speechSynthesis.onvoiceschanged = populateVoiceList;
+}
+        function onClickPlay() {
+            if(!flag){
+                flag = true;
+                utterance = new SpeechSynthesisUtterance(document.querySelector('#texttospeech').textContent);
+                //utterance.voice = synth.getVoices()[0]; 
+                synth.speak(utterance);
+          r = setInterval(() => {
+                  console.log(speechSynthesis.speaking);
+                  if (!speechSynthesis.speaking) {
+                    clearInterval(r);
+                  } else {
+                    speechSynthesis.resume();
+                  }
+                }, 14000);
+            }
+        }
+        function onClickStop() {
+           if(synth.speaking){ /* stop narration */
+                /* for safari */
+                flag = false;
+                synth.cancel();
+            }
+        }
+    }
+  else {
+        msg = document.createElement('h5');
+        msg.textContent = "Detected no support for Speech Synthesis";
+        msg.style.textAlign = 'center';
+        msg.style.backgroundColor = 'red';
+        msg.style.color = 'white';
+        msg.style.marginTop = msg.style.marginBottom = 0;
+        document.body.insertBefore(msg, document.querySelector('#SpeechSynthesis'));
+  }
+}
+</script>
+<style>
+	.flotante {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:0px;
+}
+</style>
+</HEAD>
+<BODY BGCOLOR=#A9BCF5 TEXT=#FFFFFF LINK=#00FFFF VLINK=#00FF80 ALINK=#FF0000>
+ 
+<center>
+	<a target="_blank" href="mailto:%20?cc=&amp;bcc=&amp;subject=Proyecto%20Pa&uacute;s%20para%20la%20Rep&uacute;blica%20Libre%20de%20Venezuela.&amp;body=Estatútos Sociales un compromiso Mundial. . .
+
+         
+%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Entra%20a%20https://intercongreso.vps.co.ve/folleto/estatútos.htm"><div class="compartir"><img border="0" src="https://intercongreso.vps.co.ve/folleto/logomail2.png"></a>
+<a target="_blank" href="https://twitter.com/home?status=%20Estatútos%20Sociales%20un%20compromiso%20Mundial.%20https%3A//intercongreso.vps.co.ve/folleto/estatútos.htm"><img src="https://intercongreso.vps.co.ve/share_twitter.png"></a>
+<a target="_blank" href="http://intercongreso.vps.co.ve/folleto/estatútos.htm"><a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fintercongreso.vps.co.ve%2Ffolleto%2Festatútos.htm&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore"><img src="http://intercongreso.vps.co.ve/sharefacebook.png"></a></a>
+<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//intercongreso.vps.co.ve/folleto/estatútos.htm&title=Estatútos%20Sociales%20un%20compromiso%20Mundial.&summary=&source="><img src="https://intercongreso.vps.co.ve/Share_linkedin.jpg"></a>
+<a href="whatsapp://send?text=%20Estatútos%20Sociales%20un%20compromiso%20Mundial.%20https://intercongreso.vps.co.ve/folleto/estatútos.htm"><img border="0" src="/folleto/logowhatsaap.png">
+</a><br></div>
+</center>
+<!-- Título -->
+	
+	<CENTER>
+<TABLE BORDER=7>
+<TR><TD>
+<CENTER><FONT SIZE=+3 COLOR=#222222>INTERCONGRESO CONTONI.</FONT></CENTER>
+</TD></TR>
+</TABLE>
+</CENTER>
+<div class="logo"><img src=logonegro3.jpg></div>
+<p>
+	<center>
+<button onclick="speakArticle(); ">
+Prefacio.
+</button>
+<button onclick="speakArticle1(); speakArticle2(); speakArticle3(); speakArticle4(); speakArticle5(); speakArticle6();speakArticle7();  speakArticle8(); ">
+Artículos.
+</button>
+</center>
+<p>
+	<article>
+<CENTER>
+<FONT SIZE=+3 COLOR=#FFFFFF><B>ESTATÚTOS SOCIALES.</B></FONT>
+<P>
+</center>
+<!-- Subtítulo -->
+
+<P>
+<CENTER>
+<FONT SIZE=+3 COLOR=#FFFFFF>ACTA DEL NUEVO ORDEN MUNDIAL LIBRE.</B></FONT>
+</CENTER>
+<P>
+
+
+<!-- Texto Libre -->
+
+<P>
+<FONT COLOR=#000000>
+<CENTER><B>Intercongreso Contoni<br> EN EL RESURGIMIENTO DE LOS VALORES HUMANOS</B></CENTER>
+<br><br>
+<b>Nosotros:</b> Los ciudadanos de la República Libre de Venezuela y los otros países que conforman al Intercongreso Contoni
+<br><br>
+<b>Representantes todos de nuestros países considerados Libres</b> con autonomía de libertad, hacemos valer por medio de la presente acta con la representación de <b>La Unidad de Naciones Organizadas con las siglas UNO.</b>  con la perspectiva de sustento potencial engrandeciéndonos en el valor humano, enfocamos nuestra atención al sistema de <b>La Reina del Sur</b> para nuestros Hemisferios tanto Occidental como Oriental, con la fortaleza de un <b>futuro potencial y libre</b> que nos brinda el <b>Intercongreso Contoni</b> bajo los objetivos de palabras, pensamientos y obras de  los ciudadanos de nuestras Naciones, encontrándonos en un nuevo sistema de vida libre con miras hacia un futuro fuertemente bien formado a través de los proyectos emanados por los ciudadanos del mundo en cada Nación, con la mano de obra populár y profesional, y con las riquezas educatívas, culturales, científicas, tecnológicas, laborales entre otras, de forma que pueden proyectarse y expandirse el ser <b>YO SOY</b> de cada quien, engrandeciendo a toda Humanidad. <br><br>
+
+ Encontrándonos ante una proyección incorruptible con una justicia justa hacia la evolución humana y avanzada, enriqueciendo al ser humano cada vez más en su participación a través de las relaciones fraternales, pudiendo enfocar a cada <B>UNO</b> de los participantes de nuestra Nación y Naciones en una forma de vida fuerte y poderosa, bajo un ambiente competitivo Nacional e Internacional buscando de manera sustancial nuestras riquezas humanas, exaltando al ser  de cada quien. <br><br>
+
+Hemos resuelto constituír como en efecto constituimos por medio de presentar esta acta, una unidad política, humanista, de amistad y de conciencia libre que se ha de regir por las leyes internas de cada quien, sin menoscabar ni de intercadencia a estas principales que se dictan dentro del Intercongreso Contoni para la <b>República Libre de Venezuela, </b> y del mismo funcionamiento del sistema de <b>La Reina del Sur,</b> que gracias al folleto explicativo, el método autogestionado, el mecanismo que tiene y la organización que refleja el Flujograma, nos fortaleceremos cabalmente con los derechos humanos presentados en ella, en la <b>Carta de Evolución Humana</b> y por este documento constitutivo, al cual ha sido redactado con amplitud suficiente para que funcione como estatútos sociales. 
+<BR>
+<br><br>
+</article>
+<article1> 
+<CENTER><B>ESTATÚTOS SOCIALES <br>Intercongreso Contoni.</B></CENTER><br><br>
+ 
+<U><B>Primera:</B></U> <br><br>La descripción de la institución es: <B>INTER</b>activo, <B>INTER</b>net, e <b>INTER</b>nacional <b>CONGRESO CON T</b>odos <b>O</b>rganizados <b>N</b>aciones <b>I</b>ndependientes. Bajo el nombre <b>Intercongreso Contoni</B> con el pensamiento por el resurgimiento evolutivo del ser humano, en un despertar del ciudadano.  <br><br>
+ 
+<U><B>Segunda:</B></U><br><br> El <b>Intercongreso Contoni</b> Funciona en las redes de la internet y fuera de ella siendo expandible a todos los puntos del planeta, y está previsto establecer delegaciones y organizaciones afines en todos los sectores dentro de la <b>República Libre de Venezuela</b> como en los países que se adhieren a ella de forma libre. Dichas organizaciones compartirán sus objetivos, sus métodos, su sistema de vida y podrán adoptar igual o parecida reglamentación interna, llevarán el mismo u otro nombre de representación siempre y cuando se diga que es perteneciente al sistema <b>Intercongreso Contoni,</b> y estarán sometidas a los dispositivos de coordinación según los acuerdos que se celebren. 
+<br><br>
+
+<U><B>Tercero:</B></U><br><br>Los objetivos del <b>Intercongreso Contoni</b> son: apoyar y/o participar acciones que favorezcan a todo ciudadano y toda la humanidad, proporcionando la capacitación y autosugestión para el desarrollo productivo y de educación   en la <b>República Libre de Venezuela</b> y en las Naciones que estan adheridas, contando con cualquier actividad tanto en lo Laboral, Productivo, Cultural, Moral, Social, Económico entre otros que no se nombran de valores licitos y en acciones de toda índole bajo las leyes reglamentarias suscritas dentro del Intercongredo Contoni, como en aquellas pertenecientes de las Naciones asociadas. <br><br>
+</article1><article2>
+Favorecer todos los ciudadano las posibilidades de que puedan a través de las diferentes actividades y recursos, contribuir, fomentar y propiciar la formación, información y el desarrollo sociopolitico en las participaciones ecológicas de diferentes géneros, rescatar, revalorizar y difundir dentro de las diferentes actividades las raíces populares y profesionales de la Nación y de las Naciones. <br><br>
+
+Promover la animación de las industrias abiertas en su especialización con iniciativas de servicios y solidaridad en las zonas más populares y necesitadas como en las que tienen su desarrollo, estableciendo relaciones con las organizaciones para el logro de las acciones tendentes a los programas.<br><br>
+
+Fomentar en las comunidades virtuales, comunidades Indígenas, comunidades rurales y comunidades urbanas el espíritu de la participación y cooperación para favorecerse en las actividades  <b>Intercongreso Contoni.</b> <br><br>
+	
+Promover la unidad de los ciudadanos de La<b> República Libre de Venezuela</b> y de cada país adheridos, mediante la fuerza Laboral, Artística, Cultural, Deportiva, Sociopoliticas y todas las que puedan existir, para la <b>exaltación del ser humano</b>  tal y como dictan <b>Los Derechos Humanos de UNO</b>, y la <b>Carta de Evolucion Humana</b> que sostiene el <b>Intercongreso Contoni</b> para los que hacen vida con <b>La Reina del Sur.</b><p> 
+<br><br>
+</article2><article3>
+	
+<U><B>Cuarto:</B></U><br><br> El <b>Intercongreso Contoni</b> formará parte de las actividades permanentes de organización, el intercambio y la solidaridad entre los infinitos proyectos emanados por los ciudadanos. En consecuencia, La asociación formará todo tipos de publicaciones, actividades, investigaciones y eventos de carácter científico, social, humanos y cultural para Realizar un Resurgimiento  basado en un proyecto de proyectos para toda la humanidad, tanto en el terreno ideológico, cultural como social y humano en lo programático y articulación organizativa como en los terrenos no nombrados, que nos permita responder toda necesidad de los ciudadanos con éxito.  <br><br>
+
+Promoveremos la cooperación, el entendimiento y las mejores relaciones entre individuos, sectores sociales e instituciones de toda índole, que inspirados en los sentimientos del mejoramiento de la humanidad sean consagrados para el bien de la existencia de la abundancia y libertad de toda necesidad del ser humano, que coincidan en el propósito de combatir el hambre y la miseria, a través de una acción laboral defendiendo así; el patrimonio, la soberanía y los rasgos culturales esencialmente de nuestras naciones y del Gran Bloque junto con este Nuevo Orden Mundial Libre.<br><br>
+
+
+<U><B>Quinto:</B></U> <br><br>La asociación está integrada por quienes presentamos la presente acta constitutiva y por las personas naturales y jurídicas que manifiésten dentro de las comunidades diversas su voluntad de adherirse a ella, no existen ni se establecerá a priori diferencias de deberes ni de derechos entre quienes son miembros fundadores de la asociación y quienes posteriormente se adhieran a ella. <br><br>
+</article3><article4>
+Todos tendrán el carácter de afiliados mientras cumplan los compromisos contraídos con la asociación, cada afiliado es colaborador al sistema y el compromiso personal determina la disciplina a que está sometido cada integrante, los integrantes conservarán la autonomía personal de acción y de opción humanitaria, siempre que no contradigan los principios en el objetivo de lo pautado en estas leyes, en los <b>Derechos Humanos de UNO</b>, en la carta de <b>Evolucion Humana</b> y en el sistema del <b>Intercongreso Contoni </b> tal contradicción sería causal de reeducar quienes incurran a ella tal y como dicta el <b>Articulo 12</b> de los <b>Derechos Humanos de UNO</b>.<br><br>
+
+Los deberes y derechos de los socios estarán señalados en los estatútos de la asociación con el propósito de alcanzar la mayor eficacia en la consecución de sus objetivos, la asociación <b>Intercongreso Contoni</b> conservará su autonomía frente cualquier institución del mundo que sustenten otras leyes contradictorias a las nuestras, bien sea que funcionen dentro  de la red de Internet o fuera de ellas, como en cualquier comunidad dentro y fuera de la red en cualquier país del mundo. Tampoco estará suspendida al interés particular, ni a las consecuencias de las personas naturales y jurídicas que la integran.<br><br>
+
+<U><B>Sexto:</B></U><br><br> El comité de la <b>Asamblea de Estudio General</b> de cada país adherido a <b>La Reina del Sur,</b> podrá otorgar el carácter de colaboradores principales a las personas naturales o jurídicas extranjeras que contribuyan de algún modo a la existencia en mejorar al país o el país asociado donde vive,  al funcionamiento del sistema y a la obtención de los fines de la asociación. Dicho carácter confiere el derecho de asistencia con voz a las reuniones de la <b>Asamblea de Estudio General de la Nación</b>, del comité organizador general de la Nación y a las comisiones y subcomisiones del trabajo que se le confieran.<br><br>
+</article4><article5>
+<U><B>Séptima:</B></U><br><br> La dirección general de la asociación general de cada país, es la asamblea de Estudio general de cada Nación, constituida por los ciudadanos de cada país con los Bloques de poder, conformada a su vez por quienes convocan y patrocinan la celebración continua del <b>Intercongreso Contoni.</b>. También formarán parte de la asamblea general las personas extranjeras colaboradoras y los invitados especiales del comité de la <b>Asamblea de Estudios General</b> y que tendrán derecho de asistencia y de voz dentro de su país, y los ciudadanos que con la mitad más uno de sus entes, intervienen con toda facultad en las decisiones del <b>Intercongreso Contoni</b> de su país.<br><br>
+
+La asamblea general es convocada continuamente a todos los participantes por medio del sistema de <b>La Reina del Sur</b> y se reunirán en las plataformas de las redes dentro de las comunidades existentes dentro de la internet como fuera de ella. <br><br>
+
+ La asamblea general de Estudio de cada Nación tiene entre otras, la facultad de  la orientación programática y administrativa aplicables por medio de la exponencia de sus proyectos para la vista de todos los ciudadanos. Hará la orientación oportuna al comité de la <b>Asamblea de Estudio</b> siendo la asamblea rectora principal, trazará las pautas organizativas necesarias y dictará el plan maestro y el cronograma general de la organización interna de cada país y de su dirección.<br><br>
+
+
+<U><B>Octava:</B></U><br><br>
+La Asamblea de Estudio en cada Estado o Provincia de la Nación, son los responsables de la organización, llevar a cabo y garantizar procesos y nombramientos de los Integrantes de cada Asamblea de Estudio pertinente. La Asamblea Productora no debe de intervenir en dichos nombramientos internos de cada Universidad si no forma parte directa como universitario, profesor o rector de esa Universidad o afines de esa índole.<br><br>
+
+En dado caso que exista una objetividad del nombramiento hecho por la Asamblea de Estudios creada en su Estado o Provincia, el poder popular por medio de la Asamblea Productora de su Estado o Provincia puede afrontarla exponiendo sugerencias expresando el por qué deben de ser cambiada o los integrantes de dichas Asambleas de Estudio creada en su Estado o Provincia.<br><br>
+</article5><article6>
+Igualmente la Asamblea de Estudio de cada Estado o Provincia de cada Nación, son responsables de la organización de la Asamblea General de Estudio de la Nación, llevar a cabo y garantizar procesos y nombramientos de los Integrantes de cada Asamblea de Estudio del rectorado Mayor siendo la Asamblea General de Estudio de su Nación, integrada por representantes de todas las Asambleas de las Universidades existentes de la Nación. Los integrantes de la Asamblea mas grande siendo el poder popular por medio de la Asamblea General Productora no debe de intervenir en dichos nombramientos si no forma parte directa como universitario, profesor , rector o afines de esa indoles de esas Universidades.<br><br>
+
+<U><B>Novena:</B></U> <br><br> La presentación general de la asociación y las funciones de dirección y de administración estará a cargo la <b>Asamblea de Estudio General</b>, designado cada año por la <b>Asamblea de Estudio</b> de cada Universidad y que dicha asamblea es integrado por un coordinador y un representante de cada Universidad quienes dictarán su reglamento interno de cada país y las normas de funcionamiento de la asamblea general que a su vez la Asamblea General aprueba o rechaza dicho reglamento. La <b>Asamblea de Estudio General</b> tendrá facultades de disposición sobre los bienes de la asociación de conformidad con las direcciones trazadas por la asamblea general.<br><br>
+
+<U><B>Decima:</B> </U><br><br>El comité de la <b>Asamblea de Estudio General</b> ejercerá la representación de su país o Nación y podrá nombrar apoderados, también podrá encomendar dicha función de representación a cualquier otro de sus miembros de la Asamblea General general. El comité de la <b>Asamblea General de Estudio</b> tiene entre otras, las facultades de  presidir las organizaciones de la asamblea general: puede movilizar proyectos dentro del banco de proyectos de la asociación a fin de que su puesta en marcha sea rápida expandible y aplicable a nivel Nacional, como internacional  el comité de la <b>Asamblea del Estudio General</b> podrán recibir en nombre de la asociación y para la asociación, cantidades de artículos de los participantes para ser repartidos a los depósitos en toda la Nación a fin de que ningún sector tenga necesidad, y otorgar los correspondientes reglamentos de beneficios a los comercios pertinentes de cada artículo para que dichos comercios sean transformados en depósitos libres y gratuitos para los ciudadanos de su región.<br><br>
+</article6><article7>
+<U><B>Decima primera:</B></U><br><br>La <b>Asamblea General de Estudio General</b> Tiene la función de supervisar y orientar el funcionamiento de las comisiones y subcomisiones de cada <b>Asamblea de Estudio</b> de cada Universidad, y de hacer el seguimiento continuo al plan maestro del sistema de <b>La Reina del Sur</b>. <br><br>
+
+La <b>Asamblea del Estudio General</b> tiene la facultad de cambiar las leyes de este mismo estatuto que hagan falta para un mejor desempeño de la asociación siempre y cuando se haga como proyecto presentándolo a la Asamblea General para la aprobación o rechazo de la misma.<br><br>
+
+<U><B>Decima segunda: </B></U><br><br> La <b>Asamblea del Estudio General</b> designará comisarionados integrantes de la asociación, quienes ejercerán las funciones de vigilancia y de control del funcionamiento y del patrimonio de la asociación de los depósitos. Los comisarios tendrá las facultades señaladas por el reglamento que se le entregue por parte de la <b>Asamblea del Estudio General</b>, y será dotado de los recursos y del personal necesario para el cumplimiento de las funciones. <br><br>
+
+<U><B>Decima tercera: </B></U> <br><br>La <b>Asamblea del Estudio General</b> y la <b>Asamblea del Estudio</b> de cada Universidad son las encargadas de apoyar, ayudar, aconsejar e intervenir en las acciones de la <b>Asamblea Productora General</b> siendo todos los ciudadanos.
+<br><br>
+
+<U><B>Decima cuarta: </B></U> <br><br>Las administraciones del congreso serán abiertas donde el músculo productor siendo los ciudadanos podrán atestiguar, dar fe y presencia de todos los movimientos del <b>Intercongreso Contoni</b>, con factor de poder de dar voz, objetividades y cambios pertinentes a los proyectos que consiernen al escarnio publico de bienestar Nacional y dentro de los depósitos en funcionamiento, puesto que los mismos ciudadanos serán los administradores directos de sus propios bienes que por ende tendrán la facultad de este señalamiento mencionado.<br /><br />
+</article7><article8>
+<hr color="black" size=5>
+<hr color="black" size=10><br>
+	
+	<b>República Libre de Venezuela.
+	<br />
+	Intercongreso Contoni.<br>
+	Pedro Lopez.<br />
+	Presidente.<br />
+	twitter <A HREF="www.twitter.com/intercongreso">@Intercongreso</a><br /></b></article8>
+	<hr color="black" size=5>
+		<div class="botones">
+<CENTER>
+<CENTER><FONT COLOR=#222222><b>Puedes •regresar<br /><a href="javascript:history.back()"><img src="https://intercongreso.vps.co.ve/folleto/regresar.jpg"></p></a href></FONT></CENTER>
+<hr color="black" size=1>
+<br>
+<CENTER>
+También puedes ir al indice principal.<br>
+<CENTER><FONT SIZE=+2 COLOR=#222222><a href=/folleto/todo.htm#ancla><img src="/folleto/botonindicedelsistema.jpg"></p></a href></FONT></CENTER>
+</CENTER>
+</div>
+
+<!-- Copyright de la página -->
+
+<P>
+<HR>
+<I>&copy; Copyright Congreso Interactivo Contoni. - 2000</I>
+<br /><p><br>
+<a class='flotante' >
+	<button id=stop>Silenciar Voz</button>
+<p id="texttospeech">
+</BODY>
+</HTML>
+
+

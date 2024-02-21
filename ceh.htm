@@ -1,0 +1,398 @@
+ ﻿<!DOCTYPE html><HTML>
+<HEAD>
+<TITLE>Carta de Evolución Humana.</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<META NAME="author" CONTENT="Pedro Antonio Lopez.">
+<META NAME="Generator" CONTENT="Manual">
+<META NAME="description" CONTENT="Carta de Evolucion Humana.">
+<META NAME="keywords" CONTENT="flujograma, organigrama, organigramas, principios, principio, guia, guias, ayuda, ayudas, ciudadana, ciudadanas, ciudadano, ciudadanos, metodo, metodos, autogestionario, autogestionarios, autogestionaria, autogestionarias, autogestionado, autogestionada, soberano, soberana, soberanos, soberanas, decano, decanos, educacion, educaciones, educación, trabajo, trabajos, laboral, laborales, laborables, proyecto, proyectos, sugerencia, sugerencias, papeles, universidad, universidades, industria, industrias,  propuesta, propuestas, constitución, carta, cartas, magna, poder,, poderes, libertad, ley, leyes, venezuela, bandera, justicia, nuevo, fabrica, fabricas,  fabricación, artesania, artesanias, artesano, empleo, muestra, maestro, comision, comisiones, estudiante, estudiantes, vida, vidas, mejor, mejoramiento, Productivo, Productivos, productividad, ciencia, ciencias, politica, politicas, democracia, participativa, participativas, directa, directo, filosofí, folisifías, atribuion, atribuciones, retribución, retribuciones, economia, economias, Moral, Moralista, Social, Socialista, Socialistas, Socialismo, comun, común, comunismo, endogeno, endogenos, modulo, modulos, banco, bancos, todo, todos, casa, hogar, casas, hogares, organización, organizacion organizaciones, instituto, institucion, institución, instituciones, programadores, web,organigrama, diagrama, flujo, diagramas, flujos, libertad, libre, libred, judicial, judiciales, justicia, justa, jurisdiccion, jurisdicción, juridiscciones, creadores, proyecto, proyectos, asamblea, Productivo, Productiva, productividad, generacion, generación. generaciones, genera, modelo, modelos, ejemplo, ejemplos, respeto, respetar, atribuir, atribucion, atribución, atribuciones, industrias, industria, persona, personal, familia, familiar, familiares, aquello, aquella, aquellos, aquellas, circunstancia, circunstancias, poder, popular, populismo, popularidad, municipio, municipios, estado, estados, distrito, federal, fererado, capital, capitalismo, noricia, noticias, venezuela, venezolanos, mundo, nuevo, orden, mundial, campaña, publicidad, pública, públicado, públicada, gaceta, noticia, noticias, noticiero, gobierno, autogobierno, regla, reglas">
+<META NAME="distribution" CONTENT="global">
+<META NAME="resource-type" CONTENT="document">
+	<meta name="robots" content="All"/>
+	<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="photo" />
+<meta name="twitter:site" content="@intercongreso" />
+<meta name="twitter:title" content="Carta de Evolucion Humana." />
+<meta name="twitter:description" content="Carta de Evolucion Humana." />
+<meta name="twitter:image" content="https://intercongreso.vps.co.ve/folleto/logoblanco.jpg"/>
+<meta name="twitter:url" content="https://intercongreso.vps.co.ve/folleto/propuesta.html" />
+<meta property="og:title" content="Carta de Evolucion Humana.>
+<meta property="og:title" content="Carta de Evolucion Humana..">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Carta de Evolucion Humana.">
+<meta property="og:url" content="https://intercongreso.vps.co.ve/folleto/propuesta.html">
+<meta property="og:image" content="https://intercongreso.vps.co.ve/folleto/logoblanco.jpg">
+<meta property="og:image:width" content="828" /> 
+<meta property="og:image:height" content="450" /> 
+<meta property="fb:app_id" content="117167201644844" />
+
+
+<script type="text/javascript">   
+	function speak(text, language) {
+		var s = new SpeechSynthesisUtterance(text);
+		s.lang = language;	speechSynthesis.speak(s);
+	} 
+	function speakArticle() {
+		var container = document.getElementsByTagName("article")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle1() {
+		var container = document.getElementsByTagName("article1")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle2() {
+		var container = document.getElementsByTagName("article2")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle3() {
+		var container = document.getElementsByTagName("article3")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle4() {
+		var container = document.getElementsByTagName("article4")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle5() {
+		var container = document.getElementsByTagName("article5")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	function speakArticle6() {
+		var container = document.getElementsByTagName("article6")[0];
+		var contentToSpeak = container.innerText;
+		speak(contentToSpeak, 'es-es');
+	}
+	onload = function() {
+    if ('speechSynthesis' in window){
+        var synth = speechSynthesis;
+        var flag = false;
+        var stopEle = document.querySelector('#stop');
+        stopEle.addEventListener('click', onClickStop);
+var voices = [];
+function populateVoiceList() {
+  voices = synth.getVoices().sort(function (a, b) {
+      const aname = a.name.toUpperCase(), bname = b.name.toUpperCase();
+      if ( aname < bname ) return -1;
+      else if ( aname == bname ) return 0;
+      else return +1;
+  });
+  var selectedIndex = voiceSelect.selectedIndex < 0 ? 0 : voiceSelect.selectedIndex;
+  voiceSelect.innerHTML = '';
+  for(i = 0; i < voices.length ; i++) {
+    var option = document.createElement('option');
+    option.textContent = voices[i].name + ' (' + voices[i].lang + ')';
+    if(voices[i].default) {
+      option.textContent += ' -- DEFAULT';
+    }
+    option.setAttribute('data-lang', voices[i].lang);
+    option.setAttribute('data-name', voices[i].name);
+    voiceSelect.appendChild(option);
+  }
+  voiceSelect.selectedIndex = selectedIndex;
+}
+populateVoiceList();
+if (speechSynthesis.onvoiceschanged !== undefined) {
+  speechSynthesis.onvoiceschanged = populateVoiceList;
+}
+        function onClickPlay() {
+            if(!flag){
+                flag = true;
+                utterance = new SpeechSynthesisUtterance(document.querySelector('#texttospeech').textContent);
+                //utterance.voice = synth.getVoices()[0]; 
+                synth.speak(utterance);
+          r = setInterval(() => {
+                  console.log(speechSynthesis.speaking);
+                  if (!speechSynthesis.speaking) {
+                    clearInterval(r);
+                  } else {
+                    speechSynthesis.resume();
+                  }
+                }, 14000);
+            }
+        }
+        function onClickStop() {
+           if(synth.speaking){ /* stop narration */
+                /* for safari */
+                flag = false;
+                synth.cancel();
+            }
+        }
+    }
+  else {
+        msg = document.createElement('h5');
+        msg.textContent = "Detected no support for Speech Synthesis";
+        msg.style.textAlign = 'center';
+        msg.style.backgroundColor = 'red';
+        msg.style.color = 'white';
+        msg.style.marginTop = msg.style.marginBottom = 0;
+        document.body.insertBefore(msg, document.querySelector('#SpeechSynthesis'));
+  }
+}
+</script>
+<style>
+.logo img {
+  width: 100%;
+  height: 100%;
+}
+</style>
+<style>
+.botones img {
+  width: 70%;
+  height: 100px;
+}
+</style>
+<style>
+.compartir img {
+  max-width: 18%;
+  height: auto;
+}
+</style>
+<style>
+	.flotante {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:0px;
+}
+</style>
+</HEAD>
+<BODY BACKGROUND=" " BGPROPERTIES = FIXED BGCOLOR=#FFFFFF TEXT=#000000 LINK=#0000FF VLINK=#800080 ALINK=#FF0000>
+ <center>
+	<a target="_blank" href="mailto:%20?cc=&amp;bcc=&amp;subject=Proyecto%20Pa&uacute;s%20para%20la%20Rep&uacute;blica%20Libre%20de%20Venezuela.&amp;body=Estatutos Sociales un compromiso Mundial. . .
+
+         
+%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Entra%20a%20https://intercongreso.vps.co.ve/folleto/ceh.htm"><div class="compartir" style="position: fixed"><img border="0" src="https://intercongreso.vps.co.ve/folleto/logomail2.png"></a>
+<a target="_blank" href="https://twitter.com/home?status=%20Estatutos%20Sociales%20un%20compromiso%20Mundial.%20https%3A//intercongreso.vps.co.ve/folleto/ceh.htm"><img src="https://intercongreso.vps.co.ve/share_twitter.png"></a>
+<a href="https://intercongreso.vps.co.ve/folleto/ceh.htm"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fintercongreso.vps.co.ve%2Ffolleto%2Fceh.htm&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore"><img src="https://intercongreso.vps.co.ve/sharefacebook.png"></a></a>
+<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//intercongreso.vps.co.ve/folleto/ceh.htm&title=Estatutos%20Sociales%20un%20compromiso%20Mundial.&summary=&source="><img src="https://intercongreso.vps.co.ve/Share_linkedin.jpg"></a>
+<a href="whatsapp://send?text=%20Estatutos%20Sociales%20un%20compromiso%20Mundial.%20https://intercongreso.vps.co.ve/folleto/ceh.htm"><img border="0" src="/folleto/logowhatsaap.png">
+</a></div>
+</center>
+<!-- Título -->
+	<br>
+<div class="texto">
+<CENTER>
+<TABLE BORDER=4>
+<TR><TD>
+<CENTER><FONT SIZE=+3 COLOR=#222222>INTERCONGRESO CONTONI.</FONT></CENTER>
+</TD></TR>
+</TABLE>
+</CENTER>
+<p> 
+<center>
+	<button onclick="speakArticle(); speakArticle1();">
+Escucha el Prefacio
+</button>
+<button onclick="speakArticle2();speakArticle3();speakArticle4();speakArticle5();speakArticle6();">
+Escucha los artículos
+</button>
+</center>
+
+<!-- Subtítulo -->
+<article>
+<p>
+<CENTER>
+<h10>Carta de Evolución Humana.</h1><br>
+
+
+<div class="logo"><img src="/folleto/logoblanco.jpg" border="0" width="348" height="300"></div>
+
+</CENTER>
+<br>
+
+
+<!-- Texto Libre -->
+
+<br>
+<U><CENTER><FONT SIZE=+2 COLOR=#000000>
+Presente.<BR>
+</CENTER></U>
+<br>
+</FONT>
+
+
+<b>DANDO POR ENTENDIDO</b> Que el sistema de proyectos del <b>Intercongreso Contoni</b> para los ciudadanos siendo estos los que forman las Naciónes y le transfiere el poder absoluto a los ciudadanos.
+<br><br>
+<b>RESOLVIENDO</b> que la humanidad no necesita ser representada por Organizaciónes o Instituciónes Gubernamentales al tener el poder de Estado por medio de sus proyectos y sugerencias que ofrece el sistema del <b>Intercongreso Contoni</b> para autoabastecerse sobre todas las necesidades como también para resulver los problemas existente de la Nación, y que refuerza sus leyes en una participación directa entrando en un sistema pacifico evolutivo y con todas las Naciónes.<br><br>
+
+<b>ENFOCANDO</b> Que el futuro es de toda Humanidad y esta tiene que ser libre para todos de igual manera y forma, y que reteniendo el pasado sobre problemas creados por dichas Organizaciónes o
+Instituciónes Gubernamentales que dicen representar a los ciudadanos de cada Nación, crean caos y hambre manipulando a sus antojos sobre los campos llamados economías y poder material adquisitivo.<br><br>
+
+<b>TENIENDO PRESENTE</b> Que todos queremos vivir en PAZ, sin Organizaciónes ni Instituciónes que manipule información dividiendo en distracciónes restando el valor Humano para sumarlos en atenciónes al valores personalistas.<br><br>
+</article><article1>
+<b>POR LÓGICA</b> no podrán manipular a la humanidad al eliminar los factores de economías basados en valores materialistas, traspasando dichos valores a los valores Humanos, y se les quita el poder de enfocar caos por los medios de cualquier forma y tipo de comunicación dentro o fuera de ella, ya que no existe sentido quedando nula sus intenciónes de manipulaciónes teniendo cada ciudadanos de las Naciónes el poder de Estado en sus manos junto con el Valor Humano en si mismo.<br><br>
+
+<b>SABIENDO</b> Que la paz de la humanidad la tenemos en el poder los ciudadanos formando el Estado de Derecho y no el Derecho de las Instituciónes sobre el Estado.<br><br>
+
+<b>LIBERTANDO</b> a toda humanidad en el saber sobre la educación Universal, libre y Gratuita y que no existirá freno alguno de poder, llevando el trabajo, la cultura, la educación libremente en múltiples forma a cada quien, potenciando al ser en todas las ramas existentes reforzando lo Moral, Social, Productivo y Valor Humano.<br><br>
+
+<b>TENIENDO EN CUENTA</b> que en la equidad igualitaria de poderes en cada Humano de las Naciónes siendo el Poder de Estado, y que el Estado es mantenida y sustentada por los ciudadanos, esta Carta de Evolución Humana es inquebrantable de forma indefinida sin clausuras de ruptura presentes ni futuras ya que nadie busca el mal para si mismo.<br><br>
+
+<b>SE PRESENTA</b> sin objeción algúna de ningún tipo que pueda ir en contra de esta Carta de Evolución Humana, ya que debilitaría a su mismo ser como humano y a su propio núcleo familiar.<br><br>
+
+<b>SE REAFIRMA</b> que en esta Carta de Evolución Humana potencia a la pobreza y genera valores superiores que ninguna otra pueda exponer siendo proveniente de cualquier Organización o Institución existente política o no política, privada o publica.<br><br>
+
+<b>RECONOCIENDO</b> que un medio ambiente sano es indispensable para el desarrollo del ser Humano y potencial en todos sus sentidos al contar con una educación laboral de forma Universal, Libre y Gratuita conjuntamente con herramientas, Materia Peima y maquinarias gratuitas para ejercer todo proyecto emanado por sus mismos ciudadanos.<br><br>
+
+<b>TENIENDO EN CUENTA</b> el desarrollo potencial que ofrece esta Carta de Evolución Humana para todos los ciudadanos del planeta sobre un desarrollo progresivo potencial ineludible y expandible a todos los factores de vida existentes basados en la armonía y la tranquilidad de cada Humano.<br><br>
+
+<b>FORTALECIENDO</b> que no existe ni existirá quebranto ni objeción en contra de esta carta de Evolución Humana por parte de cualquier Organización o Institución política o no política, privada o publica que pueda ir en su contra, ya que nadie como ser Humano no puede in alienar o enajenar sus propios Derechos Universales de libertad absoluta contra si mismo como Humano que es, ni la de su núcleo familiar.<br><br>
+
+<center>
+<b>SE PRESENTA:</b><br><br>
+
+
+
+<b>CARTA DE EVOLUCIÓN HUMANA.</b><br><br>
+</center>
+</article1><article2>
+<b>Articulo 1</b><br><br>
+
+Cada Humano del Planeta tiene el derecho de vivir libremente, con una Educación Universal, Libre y Gratuita basados en todos los factores existentes de Educación Laboral, Deportiva, Científica, Moral, Social, y de otras que puedan existir  no nombradas aquí, bajo los Valores Humanos y la exaltación del ser <b>YO SOY</b> como individuos de igual manera y forma los unos con los otros, para potenciar al ser Humano y darle el empuje en la Evolución Humana del planeta en cual vivimos toda Humanidad.<br><br>
+
+
+<b>Articulo 2 </b><br><br>
+
+Los individuos, ciudadanos, personas o humanos de las Comunidades Cibernéticas, Indígenas, Rurales y Urbanas y otras que puedan existir no nombradas aquí, tienen de por ley la aceptación indiscutible sobre estas leyes para hacerse valer como humano que es, al mismo tiempo que no tienen la obligación de aceptarlas por el libre albedrío, haciéndole saber que si se aparta de estas leyes que son creadas para su propio bienestar, se aleja de toda oportunidad de tener el poder supremo de la que gozaría como Humano y que pierde su propio valor del <b>YO SOY</b> y será manipulado por grupos de poderes que solo existen bajo el valor material y no en el valor humano.<br><br>
+
+<b>Articulo 3</b><br><br>
+
+La Evolución Humana se basa en el respeto a si mismo como en el respeto a los humanos del planeta, y la Educación de todas las ramas del saber existentes sin secreto alguno, se hace imperante pues de por vida, los siguientes puntos:<br><br>
+
+El secretismo del saber sobre el como se fabrica algo, o se hace algo, o tratar de ocultar estas mismas Leyes para cercenar libertades Humanas sobre el Humano, se hace pecado al prójimo y de toda Humanidad. <br><br>
+
+Actuar bajo la contraria de estas leyes, se hace ley de vida el castigo a todo aquel que guarde secretismos y se penaliza para la educación del individuo o individuos sobre las bases de esta misma <b>Carta de Evolución Humana, Los Derechos Humanos de UNO,</b> del <b>Acta de los Estatutos Sociales del Nuevo Orden Mundial Libre</b> que se presenta en el <b>Intercongreso Contoni</b> como también del <b>Sistema </b>que se ofrece dentro <b>del Intercongreso Contoni siendo La Reina del Sur.</b><br><br>
+
+</article2><article3>
+
+<b>Articulo 4</b><br><br>
+
+Ningún Humano puede ser castigado por no saber estas leyes presentes y se hace ley la educación al Humano o grupos de Humanos que infrinjan sin saber dichas leyes que sustenta esta Carta de Evolución Humana, educándolos libremente sin encarcelamiento ni obligatoriedad algúna a los infractores sobre estas leyes, el quien caiga por segunda vez en la infracción sobre estas leyes, será perdondo y reeducándolo libremente.<br> <br>
+
+Aquel Humano o grupo de Humanos que recaigan en infracción por tercera vez, será perdonado y tendrá que ser reeducado obligatoriamente.<br><br>
+
+Aquel Humano o grupo de Humanos que recaigan en infracción por cuarta vez o mas, o por tercera vez y no quiera ser reeducado obligatoriamente, actúa bajo la contraria de esta ley, y se hace imperante el castigo a todo aquel que la infrinja y se penaliza con la encarcelación temporal de seis meses justificada para la educación del individuo o individuos.<br><br>
+La educación y reeducación a que se refiere este tema, se hace sobre las bases de esta misma <b>Carta de Evolución Humana, Los Derechos Humanos de UNO,</b> del <b>Acta de los Estatutos Sociales del Nuevo Orden Mundial Libre</b> que se presenta en el <b>Intercongreso Contoni</b> como también del <b>Sistema </b>que se ofrece dentro <b>del Intercongreso Contoni.</b><br><br>
+
+<b>Articulo 5</b><br><br>
+
+Ningún Humano fuera de su núcleo familiar no tiene ninguna potestad de mandar o manipular a los Humanos para que le sirvan como obreros y menos como esclavos en las empresas privadas por obligación de ningún tipo, esta tiene que ser de libre albedrío y no obligada, el castigo por quebrantar esta ley es la de transformar dicha empresa privada que sustenta, en  industrias abiertas como se estipula en el ejercicio del <b>sistema de La Reina del Sur</b> dentro del <b>Intercongreso Contoni </b>para el bien de los abusados y para toda la comunidad que hacen vida en dicha comunidad, no obstante no se puede dejar al abandono a los que les pertenecía dicha industria o empresa y se le dará el respectivo apoyo para que ejerzan por igual como un ciudadanos más de la Nación.<br><br>
+
+<b>Articulo 6</b><br><br>
+
+Las empresas privadas son privadas mientras no infrinja esta <b>Carta de la Evolución Humana.</b> Las empresas privadas pueden permanecer privadas siempre y cuando no le den el valor al dinero sino el valor a lo humano y ayuden a la humanidad que sustenta dicha empresa.<br><br>
+
+
+<b>Articulo 7</b><br><br>
+
+Ningún Humano puede ni podrá infringir maldad algúna ni sufrimiento alguno a otro Humano fuera de su núcleo familiar para educar a su núcleo familiar como quieran libremente bajo las leyes existente de la Nación, y aquel que infrinja maldad algúna a alguien, tiene que ser castigado de igual forma como dicta los Derechos Humanos en el <b>Articulo 5</b> a la cual dice:<br>
+</article3><article4>
+<b>Articulo 5 de los Derechos Humanos de UNO</b><br><br>
+
+Nadie puede someter a manipulaciónes no deseadas por otros si no es sometido el mismo manipulador a la misma condición que quiera imponer, ni de torturas, ni de penas o tratos crueles, inhumanos o degradantes.<br></br>
+
+
+<b>Articulo 8</b><br><br>
+
+No existirá ni puede existir regímenes constituciónales sino Constituciónes hechas por los ciudadanos, las autoridades que se crean más poder sobre esta ley será aplicada sobre el, ella o ellos el <b>Articulo 4</b> de esta Carta de Evolución Humana.<br></br>
+
+
+
+<b>Articulo 9</b><br><br>
+
+
+El elemento esencial de la Evolución Humana es el acceso al poder y su ejercicio con sujeción al derecho de Estado; la celebración constante sobre exponer proyectos y sugerencias, libres, justas y basadas en el mejoramiento de dichas leyes incluyendo estas mismas sobre esta Carta sin secretos como expresión de la soberanía del ciudadano es de soberanía universal.<br></br>
+
+
+
+
+<b>Articulo 10 </b><br><br>
+
+la responsabilidad de las Leyes para el Mejoramiento recae sobre la Asamblea de Estudio General y las Asambleas de Estudio de cada Estado o Provincia en su respectivo Estado o Provincia, donde con toda facultad puede defenderse dichas leyes con mayor poder junto con La Asamblea Productora General o la Asamblea Productora de su Estado o Provincia siendo las Asambleas mas grandes existentes de la Nación, Estado o Provincia.<br></br>
+
+No puede ni podrá ser manipulada las decisiones tomadas por la Asamblea del poder popular ciudadano siendo la Asamblea Productora aunque mande La Asamblea General De Estudio o la Asamblea de Estudio de cada Estado o Provincia e inclusive las Asambleas de Bloque Mayor, tal manipulación en contra de el poder popular soberano de los ciudadanos, tendrá que ser castigada con la no participación como asambleísta de Estudio de por vida o la del mismo Bloque Mayor.<br></br>
+
+En dado caso que estudios pertinentes a los casos que se conozca su inocencia tiene el derecho de retornar a formar parte de dicha Asamblea de Estudio donde fue sancionado u otra Asamblea de Estudio existente en el pais, que al igual trato se merecen laoas Asambleistas del Bloque Mayor.<br></br>
+
+
+</article4><article5>
+<b>Articulo 11</b><br><br>
+
+
+Cualquier persona o grupo de personas que consideren que sus derechos humanos han sido violados podrá recurrir a cualquier oficina de relaciónes publicas, cualquier iglesia, cualquier Industria Abierta, Cualquier centro de acopio, cualquier Universidad o cualquier departamento del sistema, o cualquier otro medio existente y poner denuncias o peticiónes para que una comisión Universitaria se encargue  sobre estos asuntos y actúe de manera rápida y contundente en su defensa como Humano que es.<br></br>
+
+<b>Articulo 12</b><br><br>
+
+Ningún Humano es diferente a otro y cuenta con los mismos bienestares sobre esta <b>Carta de Evolución Humana, los Derechos Humanos de UNO, el Acta de los Estatutos Sociales del Nuevo Orden Mundial Libre y el sistema en su complejidad llamada la Reina del Sur</b> aunque físicamente exista diferencias entre género, raza u otras.<br><br>
+
+<b>Articulo 13</b><br><br>
+
+El Mejoramiento del ser Humano y de la Nación se debe al mejoramiento sobre los proyectos populares emanados por sus ciudadanos, y en el orden y respeto de igualdad para todos de la forma que se rija dentro de cada comunidad, si es decidido por los humanos que integran las comunidades la existencia de un ser que sea Jefe de comunidad como en los casos de las comunidades indígenas teniendo caciques y sus costumbres ancestrales, entonces es respetada como tal siempre y cuando no sea para hacer el mal a su propia comunidad.<br><br>
+
+Siendo así entonces debe de contar con el respaldo del Estado o Provincia o Nación para que sea cambiado dicho jefe de esa comunidad por otro perteneciente de esa comunidad a decisión de los que hacen vida en esa comunidad.<br><br>
+
+Solo tiene el derecho y el deber el Estado o Provincia o Nación en dado caso que se altere la paz en la respectiva comunidad, el intervenir como mediador teniendo voz para la sugerencias y organización pertinentes mas no voto en las decisiones.<br><br>
+
+si continúa el conflicto mas allá de su Nación hacia otras Naciónes, las otras Naciónes tienen el mismo derecho y deber de participar en la comunidad afectada para el reestablecimiento de la paz.<br><br>
+
+<b>Articulo 14</b><br><br>
+
+Cuando en una Nación se produzcan situaciónes que pudieran afectar el desarrollo de la humanidad y la paz dentro de ella, Se tiene que actuar inmediatamente sobre las bases de un entendimiento Universal superiores al conflicto y de forma pacífica que genere la aceptación del fin del problema dentro de la Nación afectada por el bien de la Humanidad que vive en ella.<br><br>
+
+Los responsables que infrinjan las bases del entendimiento Universal superior dadas a esa Nación, se aplicará en el, ella o ellos el <b>Articulo 7</b> de esta Carta de Evolución Humana.<br><br>
+
+</article5><article6>
+
+<b>Articulo 15</b><br><br>
+
+
+La Asamblea de Estudio en cada Nación, son los responsables de organizar, llevar a cabo y garantizar procesos y nombramientos de los integrantes que formen la representación de su Nación con el fin de crear la Asamblea de Estudio  Internacionál del Intercongreso Contoni.<br><br>
+
+
+Igual caso es con la Asamblea General de cada Nación en el poder popular del ciudadano de la Asamblea productora, en organizarse con ayuda de la Asamblea de Estudio para crear la Asamblea Productora Internacionál del Intercongreso Contoni.<br><br>
+
+
+<b>Articulo 16</b><br><br>
+
+
+Basado en los principios de la <b>Carta de la Evolución Humana </b> y con sujeción a sus normas, y en concordancia con la cláusula pacífica contenida en la Declaración presente, la ruptura del orden de paz de una Nación o una alteración del orden constitucionál que afecte gravemente el libre desenvolvimiento de los que hacen vida en ella, la intervención basadas sobre esta <b>Carta de Evolución Humana</b> sobrepasa cualquier <b>Acta Constitutiva<b> que tenga dicha Nación aunque tenga escrito en ella que es soberana, y es aplicable si no contase con esta.<br><br>
+Fin del artículo.<br><br>
+<hr color="black" size=10>
+<hr color="black" size=5>
+	
+<center>
+La Facultad de imponer el Orden sobre dicha Nación para mantener la paz, la vida y la evolución humana en ella, es suprema a cualquier intento en esta <b>Carta de Evolución Humana,</b> y nada ni nadie podrá detener las decisiones que se tome en el núcleo de la del Bloque Menor Internacional.<br>
+</center>
+<hr color="black" size=5>
+<hr color="black" size=10><br>
+	
+	República Libre de Venezuela.
+	
+	<br>
+	Carta de Evolución mundial.<br>
+Intercongreso Contoni.<br>
+	Pedro Lopez.<br>
+	Presidente.<br>
+	Twitter <A HREF="www.twitter.com/intercongreso">@Intercongreso</a><br>
+	<hr color="black" size=5>
+</article6>
+</FONT>
+<HR>
+<br>
+<div class="botones">
+<CENTER>
+<CENTER>Puedes regresar<br><FONT SIZE=+2 COLOR=#222222><a href="javascript:history.back()"><img src="https://intercongreso.vps.co.ve/folleto/regresar.jpg"><br></a href></FONT></CENTER>
+También puedes ir al indice principal<br>
+<CENTER><FONT SIZE=+2 COLOR=#222222><a href=/folleto/todo.htm#ancla><img src="/folleto/botonindicedelsistema.jpg"><br></a href></FONT></CENTER>
+</CENTER>
+<a class='flotante' >
+	<button id=stop>Silenciar Voz</button>
+<p id="texttospeech">
+</BODY>
+</HTML>
