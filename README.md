@@ -12,7 +12,7 @@ El Intercongreso Contoni es una plataforma Guía para que puedan crear plataform
 
 ## Enfoque
 
-Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre ciudadanos de todo el mundo,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unifocandolas por medio de sistemas de Banco de Prpyectos, wistemas de productovidad e intercambio, sistemas para la organozacion social entre otros   
+Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre ciudadanos de todo el mundo,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unifocandolas por medio de sistemas de Banco de Proyectos, sistemas de productovidad e intercambio, sistemas para la organozacion social entre otros   
 
 ## Misión
 
