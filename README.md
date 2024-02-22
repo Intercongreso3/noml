@@ -2,8 +2,8 @@
 
 # Intercongreso Contoni
 
-      Saludos Cordiales.
-        <h2>Acerca de</h2>
+      Saludos Cordiales
+# Acerca de:
         Intercongreso Contoni es una plataforma Guia de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación ciudadana y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella,  
        #Visión
         El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada, es una guía para creación de espacios donde todas las personas puedan aportar y trabajar juntas para construir un futuro más justo tanto para su entorno como para si mismo, una humanidad equitativa y con justicia justa para las generaciones venideras a nivel mundial.
