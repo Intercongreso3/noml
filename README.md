@@ -51,33 +51,3 @@ Pedro Lopez.
 
 Escritor del Intercongreso Contoni la plataforma guia del Nuevo Orden Mundial Libre.
 
-servir a la humanidad y a promover el bienestar colectivo.
-
-Mi sueño es crear entre todos un sistema donde cada ciudadano tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo al Nuevo Mundo Libre.
-
-Desde mi silla detrás y con móvil, estoy abierto la colaboración y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
-
-Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
-
-
-## Funcionamiento
-
-- Los ciudadanos pueden presentar proyectos a través de sus páginas personales en la plataforma.
-- Los proyectos son evaluados y admitidos mediante procesos de votación y participación de las universidades.
-- Los proyectos admitidos se canalizan a través de los módulos 1 y 2 para su implementación.
-- La plataforma sirve como guía para la creación de espacios donde todos puedan contribuir y trabajar en conjunto.
-
-
-## Cómo Participar
-
-Para participar en el Intercongreso Contoni, simplemente visita nuestra plataforma en línea, explora las ideas y deja que tu imaginacion te guie. Únete y contribuye a construir un futuro mejor para ti mismo y para todos.
-
-## Contacto
-
-Para más información, visita nuestra página web en [intercongreso.vps.co.ve](https://intercongreso.vps.co.ve) o contáctame por correo electrónico a intercongreso3@gmail.com
-
-
-Pedro Lopez.
-
-
-Escritor del Intercongreso Contoni la plataforma guia del Nuevo Orden Mundial Libre.
