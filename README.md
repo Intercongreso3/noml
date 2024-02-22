@@ -7,7 +7,8 @@
         El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada.
 
 <h2>Manos a la obra</h2>
- En el diagrama de flujo se encuentra muchas cosas que para crear como los sistemas de Blockchain, Sistemas de intercambios y otros sistemas, la odea es una plataforma por cada Nación a medida de la expansión de este Proyecto que por ahora es una simple Guia, y que dichas plataformas funcionen las plataformas sean separadas unas que otras con cada constirucion de su Nación amoldada al sistema de forma se unifiquen por medio de los bancos de peoyectos para sus peoducciones a elaborar por parte de todos los incolucrados.</b></p>
+ En el diagrama de flujo (en flujogramaTest.html)
+ se encuentra muchas cosas que para crear como los sistemas de Blockchain, Sistemas de intercambios y otros sistemas, la odea es una plataforma por cada Nación a medida de la expansión de este Proyecto que por ahora es una simple Guia, y que dichas plataformas funcionen las plataformas sean separadas unas que otras con cada constirucion de su Nación amoldada al sistema de forma se unifiquen por medio de los bancos de peoyectos para sus peoducciones a elaborar por parte de todos los incolucrados.
  
   <h2>Confio ciegamente en mi humanidad</h2>  
 
