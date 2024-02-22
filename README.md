@@ -30,7 +30,9 @@ Para participar en el Intercongreso Contoni, simplemente visita nuestra platafor
 
 Para más información, visita nuestra página web en [intercongreso.vps.co.ve](https://intercongreso.vps.co.ve) o contáctame por correo electrónico a intercongreso3@gmail.com
 
+
 Pedro Lopez.
+
 Escritor del Intercongreso Contoni la plataforma guia del Nuevo Orden Mundial Libre.
 
 
