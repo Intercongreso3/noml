@@ -26,7 +26,7 @@ Cambiar el sistema de vida en el mundo, no mas robos porque no tendrá sentido r
 
 ## Cómo Participar
 
-Para participar en el Intercongreso Contoni, simplemente visita nuestra plataforma en línea, explora las ideas y deja que tu imaginacion te guie. Únete y contribuye a construir un futuro mejor para todos.
+Para participar en el Intercongreso Contoni, simplemente visita nuestra plataforma en línea, explora las ideas y deja que tu imaginacion te guie. Únete y contribuye a construir un futuro mejor para ti mismo y para todos.
 
 ## Contacto
 
