@@ -16,6 +16,16 @@ Se busca impulsar la colaboración, producción y el intercambio de ideas, educa
 
 Cambiar el sistema de vida en el mundo, no mas robos porque no tendrá sentido robar, no mas miserias porque seremos una civilozacion avanzada, gontaremos con amor de projimo y hacemos grandes cosas inimaginables hasta ahora con hacer un pequeño esfuwrzo cada quien.
 
+## Acerca de este proyecto
+
+Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista y pastor sin iglesia de cemento, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
+
+Mi visión es crear entre todos un sistema donde cada ciudadano tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo al Nuevo Mundo Libre.
+Aún en mi pequeña silla detrás de mi móvil, estoy abierto la colaboración y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
+
+Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
+
+
 ## Funcionamiento
 
 - Los ciudadanos pueden presentar proyectos a través de sus páginas personales en la plataforma.
