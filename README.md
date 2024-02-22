@@ -1,22 +1,10 @@
 # noml
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intercongreso Contoni</title>
-</head>
-<body>
-    <header>
-        <h1>Intercongreso Contoni</h1>
+<h1>Intercongreso Contoni</h1>
     </header>
-    <section id="about">
       Saludos Cordiales.
         <h2>Acerca de</h2>
         <p>Intercongreso Contoni es una plataforma que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación ciudadana y el desarrollo sostenible. A través de sus diferentes tecnologías que se puedan aplicar en ella,  el Intercongreso Contoni busca ser una guía para creación de espacios donde todas las personas puedan aportar y trabajar juntas para construir un futuro más justo y equitativo para las generaciones venideras a nivel mundial.</p>
-    </section>
-    <section id="projects">
-        <h2>Proyectos</h2>
+        <h2>Proyecto</h2>
         <p>El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada.
 </p>
       <p style="color: red;"><b></b>
