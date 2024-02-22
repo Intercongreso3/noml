@@ -18,7 +18,7 @@ Se busca impulsar la colaboración, producción y el intercambio de ideas, educa
 
 Cambiar el sistema de vida en el mundo, no mas robos porque no tendrá sentido robar, no mas miserias porque seremos una civilozacion avanzada, gontaremos con amor de projimo y hacemos grandes cosas inimaginables hasta ahora con hacer un pequeño esfuwrzo cada quien.
 
-## 
+## Mi Compromiso
 
 Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
 
