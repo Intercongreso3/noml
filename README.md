@@ -4,8 +4,10 @@
 Saludos Cordiales
 # Acerca de:
 Intercongreso Contoni es una plataforma Guia de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación ciudadana y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella,  
-       #Visión
-        El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada, es una guía para creación de espacios donde todas las personas puedan aportar y trabajar juntas para construir un futuro más justo tanto para su entorno como para si mismo, una humanidad equitativa y con justicia justa para las generaciones venideras a nivel mundial.
+
+## Visión
+
+El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada, es una guía para creación de espacios donde todas las personas puedan aportar y trabajar juntas para construir un futuro más justo tanto para su entorno como para si mismo, una humanidad equitativa y con justicia justa para las generaciones venideras a nivel mundial.
 
 
 ## Enfoque
@@ -18,7 +20,7 @@ Cambiar el sistema de vida en el mundo, no mas robos porque no tendrá sentido r
 
 ## Acerca de este proyecto
 
-Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista y pastor sin iglesia de cemento, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
+Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista, escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
 
 Mi visión es crear entre todos un sistema donde cada ciudadano tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo al Nuevo Mundo Libre.
 Aún en mi pequeña silla detrás de mi móvil, estoy abierto la colaboración y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
