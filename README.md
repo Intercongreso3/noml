@@ -20,7 +20,7 @@ Cambiar el sistema de vida en el mundo, no mas robos porque no tendrá sentido r
 
 ## Acerca de este proyecto
 
-Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista, escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
+Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
 
 Mi visión es crear entre todos un sistema donde cada ciudadano tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo al Nuevo Mundo Libre.
 Aún en mi pequeña silla detrás de mi móvil, estoy abierto la colaboración y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
