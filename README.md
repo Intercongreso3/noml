@@ -2,14 +2,14 @@
 <h1>Intercongreso Contoni</h1>
       Saludos Cordiales.
         <h2>Acerca de</h2>
-        Intercongreso Contoni es una plataforma Guia de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación ciudadana y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella,  el Intercongreso Contoni busca ser una guía para creación de espacios donde todas las personas puedan aportar y trabajar juntas para construir un futuro más justo y equitativo para las generaciones venideras a nivel mundial.
-       <h2>Visión</h2>
+        Intercongreso Contoni es una plataforma Guia de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación ciudadana y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella,  
+       #Visión
         El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada.
 
 
-## Descripción
+## Enfoque
 
-El Intercongreso Contoni es una plataforma que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar colectivo. 
+Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios, bienes en todas las ciencias entre ciudadanos de todo el mundo. Su misión es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar colectivo. 
 
 ## Misión
 
