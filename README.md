@@ -34,7 +34,7 @@ Para más información, visita nuestra página web en [intercongreso.vps.co.ve](
 
 
 Pedro Lopez.
-https://intercongreso.vps.co.ve
+Intercongreso Contoni
 
 Escritor del Intercongreso Contoni la plataforma guia del Nuevo Orden Mundial Libre.
 
