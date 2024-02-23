@@ -35,6 +35,7 @@ Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
 - Los proyectos son evaluados y admitidos mediante procesos de votación y participación de las universidades.
 - Los proyectos admitidos se canalizan a través de los módulos 1 y 2 para su implementación.
 - La plataforma sirve como guía para la creación de espacios donde todos puedan contribuir y trabajar en conjunto.
+- Y muchas mas cosas que no se nombran pero te daras cuentas a su tiempo. 
 
 
 ## Cómo Participar
