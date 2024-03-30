@@ -3,7 +3,7 @@
 # Intercongreso Contoni
 Saludos Cordiales
 # Acerca de:
-Intercongreso Contoni es una Intercongreso Contoni es una plataforma Guía de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre ciudadanos de todo el mundo. Su naturaleza es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación ciudadana y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella.  
+Intercongreso Contoni es una Intercongreso Contoni es una plataforma Guía de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre humanos de todo el mundo. Su naturaleza es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella.  
 
 ## Visión
 
@@ -12,7 +12,7 @@ El Intercongreso Contoni es una plataforma Guía para que puedan crear plataform
 
 ## Enfoque
 
-Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre ciudadanos de todo el mundo,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unificándolas por medio de sistemas de Banco de Proyectos, sistemas de productividad e intercambio, sistemas para la organización social entre otros   
+Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre los humanos del planeta tierra,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unificándolas por medio de sistemas de Banco de Proyectos, sistemas de productividad e intercambio, sistemas para la organización social entre otros   
 
 ## Misión
 
@@ -20,9 +20,9 @@ Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido 
 
 ## Mi Compromiso
 
-Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los ciudadanos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
+Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los humqnos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
 
-Mi sueño es crear entre todos un sistema donde cada ciudadano tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo "El Nuevo Mundo Libre".
+Mi sueño es crear entre todos un sistema donde cada ser, en cada UNO y tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo "El Nuevo Mundo Libre".
 
 Desde mi silla detrás de mi  mmóvil, estoy abierto s la colaboración reciprpca y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
 
@@ -31,7 +31,7 @@ Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
 
 ## Funcionamiento
 
-- Los ciudadanos pueden presentar proyectos a través de sus páginas personales en la plataforma.
+- Los humanos pueden presentar proyectos a través de sus páginas personales en la plataforma.
 - Los proyectos son evaluados y admitidos mediante procesos de votación y participación de las universidades.
 - Los proyectos admitidos se canalizan a través de los módulos 1 y 2 para su implementación.
 - La plataforma sirve como guía para la creación de espacios donde todos puedan contribuir y trabajar en conjunto.
