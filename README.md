@@ -40,7 +40,13 @@ Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
 
 ## Cómo Participar
 
-Para participar en el Intercongreso Contoni, simplemente visita nuestra plataforma en línea, explora las ideas y deja que tu imaginación te guie. Únete y contribuye a construir un futuro mejor para ti mismo y para todos.
+Para participar en el Intercongreso Contoni, la clave está en el diagrama de flujos o flujograma, una plataforma por cada sector, Municipios y Estados de cada Nacion y sus bancos de proyectos para cada Nación.
+
+https://intercongreso.vps.co.ve/folleto/flujogramaTest.html
+
+y en Github: flujogramaTest.html
+
+
 
 ## Contacto
 
