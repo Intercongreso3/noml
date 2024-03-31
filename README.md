@@ -16,7 +16,7 @@ Se busca impulsar la colaboración, producción y el intercambio de ideas, educa
 
 ## Misión
 
-Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido robar, no más miserias porque seremos una civilización avanzada, contaremos con amor de prójimo y hacemos grandes cosas inimaginables hasta ahora con hacer un pequeño esfuerzo cada quien.
+Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido robar, no más miserias porque seremos una civilización avanzada, contaremos con amor de prójimo y haremos grandes cosas inimaginables hasta ahora, con hacer un pequeño esfuerzo cada quien.
 
 ## Mi Compromiso
 
