@@ -22,9 +22,9 @@ Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido 
 
 Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los humqnos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
 
-Mi sueño es crear entre todos un sistema donde cada ser, en cada UNO y tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Este proyecto es un punto de partida para esa visión, y necesito la ayuda de programadores, informáticos y afines para llevar a cabo "El Nuevo Mundo Libre".
+Mi sueño es crear entre todos un sistema donde cada ser, en cada UNO de nosotros tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Es un punto de partida para esa visión, nota especial para programadores, informáticos, desarrolladores y afines para llevar a cabo "El Nuevo Mundo Libre".
 
-Desde mi silla detrás de mi  mmóvil, estoy abierto s la colaboración reciprpca y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
+Desde mi silla detrás de mi  mmóvil, estoy abierto a la colaboración reciproca y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
 
 Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
 
@@ -34,13 +34,13 @@ Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
 - Los humanos pueden presentar proyectos a través de sus páginas personales en la plataforma.
 - Los proyectos son evaluados y admitidos mediante procesos de votación y participación de las universidades.
 - Los proyectos admitidos se canalizan a través de los módulos 1 y 2 para su implementación.
-- La plataforma sirve como guía para la creación de espacios donde todos puedan contribuir y trabajar en conjunto.
+- La plataforma sirve como guía para la creación de espacios donde todos puedan contribuir y ser productivo en forma personal ó en conjunto.
 - Y muchas mas cosas que no se nombran pero te daras cuentas a su tiempo. 
 
 
 ## Cómo Participar
 
-Para participar en el Intercongreso Contoni, la clave está en el diagrama de flujos o flujograma, una plataforma por cada sector, Municipios y Estados de cada Nacion y sus bancos de proyectos para cada Nación.
+Para participar en el Intercongreso Contoni, la clave está en el diagrama de flujos o flujograma, una plataforma por cada sector, Municipios y Estados o Cantones de cada Nacion y sus bancos de proyectos para cada Nación.
 
 https://intercongreso.vps.co.ve/folleto/flujogramaTest.html
 
