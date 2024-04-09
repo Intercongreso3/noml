@@ -50,7 +50,7 @@ y en Github: flujogramaTest.html
 
 ## Contacto
 
-Para más información, visita nuestra página web en [intercongreso.vps.co.ve](https://intercongreso.vps.co.ve) o contáctame por correo electrónico a intercongreso3@gmail.com
+Para más información, visita nuestra página web en [intercongreso.vps.co.ve](https://intercongreso.vps.co.ve) o contáctame por correo electrónico a uno@intercongreso.vps.co.ve
 
 
 Pedro Lopez.
