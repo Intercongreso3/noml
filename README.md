@@ -7,7 +7,7 @@ Saludos Cordiales
 # Guía NOML y Softwares Relacionados
 
 El Intercongreso Contoni es una plataforma Guía para que puedan crear plataformas afines con el fin de que las siguientes generaciones tengan la vida que se merecen en una civilización avanzada, es una guía para creación de espacios donde todas las personas puedan aportar y trabajar juntas para construir un futuro más justo tanto para su entorno como para si mismo, una humanidad equitativa y con justicia justa para las generaciones venideras a nivel mundial.
-[![Licencia: Especial][![Licencia: Especial](https://img.shields.io/badge/Licencia:Especial-blue.svg)]
+[![Licencia: Especial][![Licencia: Especial]([https://img.shields.io/badge/Licencia:Especial-blue.svg](https://intercongreso.vps.co.ve/folleto/LICENSE.html))]
 
 
 
