@@ -19,7 +19,9 @@ La Guía NOML y el software relacionado son herramientas diseñadas para facilit
 Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre los humanos del planeta tierra,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unificándolas por medio de sistemas de Banco de Proyectos, sistemas de productividad e intercambio, sistemas para la organización social entre otros   
 Los desarrolladores interesados en contribuir al proyecto pueden crear software relacionado con la Guía NOML y licenciarlo bajo la Licencia Especial de NOML, lo que garantiza que los beneficios del software sean devueltos a la sociedad de forma gratuita y perpetua.
 
-## Misión
+## Misión 
+La misión del Intercongreso Contoni, como una plataforma guía, es crear un entorno donde las personas puedan colaborar y laborar juntos para construir un futuro más justo y equitativo para las generaciones presentes y futuras a nivel mundial. Promueve la creación de espacios donde todos puedan contribuir y desarrollar soluciones para abordar los desafíos sociales, económicos, ambientales entre otros que enfrenta la humanidad. Al fomentar la cooperación, el aprendizaje mutuo y la innovación, la plataforma Intercongreso Contoni busca mejorar la calidad de vida y promover el desarrollo sostenible en todo el mundo cde avance hacia un futuro prospero para todos.
+
 ## Instalación
 
 Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido robar, no más miserias porque seremos una civilización avanzada, contaremos con amor de prójimo y haremos grandes cosas inimaginables hasta ahora, con hacer un pequeño esfuerzo cada quien.
