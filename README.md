@@ -1,7 +1,7 @@
 LEEME (Readme)
 
 
-# Guía NOML y Software Relacionado
+# Guía NOML y Softwares Relacionados
 
 [![Licencia: Especial](https://img.shields.io/badge/Licencia-Especial-blue.svg)](LICENSE)
 
