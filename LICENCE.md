@@ -1,22 +1,31 @@
-[ Licencia
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Licencia</title>
+</head>
+<body>
 
-Licencia Especial para la Guía NOML y Softwares Relacionados
+<h1>Licencia Especial para la Gu&iacute;a NOML y Softwares Relacionados</h1>
 
-Copyright © 2024 Todos sonos UNO - Intercongreso Contoni https://intercongreso.vps.co.ve/folleto/estatutos.htm
+<p>Copyright &copy; 2024 Todos sonos UNO - Intercongreso Contoni <a href="https://intercongreso.vps.co.ve/folleto/estatutos.htm">https://intercongreso.vps.co.ve/folleto/estatutos.htm</a></p>
+<br>
+<p>Por la presente se concede permiso, sin coste alguno, a cualquier persona que obtenga una copia de esta Gu&iacute;a NOML, archivos de documentaci&oacute;n asociados y softwares creados para el Intercongreso Contoni de cada naci&oacute;n, para tratar en el NOML (Nuevo Orden Mundial Libre) sin restricci&oacute;n, incluidos, entre otros, los derechos de utilizar, copiar, modificar, fusionar, publicar y distribuir de forma gratuita.</p>
+<br>
+<p>Est&aacute; estrictamente prohibida la venta, comercializaci&oacute;n o distribuci&oacute;n a cambio de dinero, bienes o servicios de la Gu&iacute;a NOML, softwares relacionados y cualquier otro material derivado, directa o indirectamente.</p>
+<br>
+<p>Los derechos de autor de la Gu&iacute;a NOML y softwares relacionados pertenecen al Intercongreso Contoni y al creador o creadores de los softwares. Al utilizar, copiar, modificar, fusionar, publicar o distribuir estos materiales, debe incluirse la nota de copyright original y un enlace a la p&aacute;gina de inicio del Intercongreso Contoni <a href="https://intercongreso.vps.co.ve/folleto/estatutos.htm">https://intercongreso.vps.co.ve/folleto/estatutos.htm</a></p>
+<br>
+<p>Cualquier distribuci&oacute;n de la Gu&iacute;a NOML y softwares relacionados debe realizarse sin costo alguno y manteniendo el esp&iacute;ritu del NOML, el cual promueve el libre acceso a la informaci&oacute;n y el desarrollo de un mundo m&aacute;s justo y solidario.</p>
+<br>
+<p>Al utilizar, copiar, modificar, fusionar, publicar o distribuir la Gu&iacute;a NOML y softwares relacionados, usted acepta los t&eacute;rminos y condiciones de esta Licencia Especial. Si no est&aacute; de acuerdo con estos t&eacute;rminos, no puede utilizar la Gu&iacute;a NOML ni los softwares relacionados.</p>
+<br>
+<p>En caso de discrepancias entre una decisi&oacute;n del creador y la Asamblea del Bloque Mayor, Si la reclamaci&oacute;n es aceptada, se sobrepondr&aacute; la decisi&oacute;n de la Asamblea del Bloque Mayor y se respetar&aacute; la decisi&oacute;n del creador. Deve dejar el software al servicio del Intercongreso Contoni y de todos hasta que se pueda reemplazar por otro sofware que cumpla la misma o parecida funci&oacute;n.</p>
+<br>
+<p>Esta licencia no puede cambiar jam&aacute;s sus letras al menos que sea por voto general de todos los que cuidamos y custodiamos las letras de nuevo mundo.</p>
+<br>
+<p>Firma: La Asamblea General.</p>
 
-Por la presente se concede permiso, sin coste alguno, a cualquier persona que obtenga una copia de esta Guía NOML, archivos de documentación asociados y softwares creados para el Intercongreso Contoni de cada nación, para tratar en el NOML (Nuevo Orden Mundial Libre) sin restricción, incluidos, entre otros, los derechos de utilizar, copiar, modificar, fusionar, publicar y distribuir de forma gratuita.
+</body>
+</html>
 
-Está estrictamente prohibida la venta, comercialización o distribución a cambio de dinero, bienes o servicios de la Guía NOML, softwares relacionados y cualquier otro material derivado, directa o indirectamente.
-
-Los derechos de autor de la Guía NOML y softwares relacionados pertenecen al Intercongreso Contoni y al creador o creadores de los softwares.  Al utilizar, copiar, modificar, fusionar, publicar o distribuir estos materiales, debe incluirse la nota de copyright original y un enlace a la página de inicio del Intercongreso Contoni (https://intercongreso.vps.co.ve/folleto/estatutos.htm).
-
-Cualquier distribución de la Guía NOML y softwares relacionados debe realizarse sin costo alguno y manteniendo el espíritu del NOML, el cual promueve el libre acceso a la información y el desarrollo de un mundo más justo y solidario.
-
-Al utilizar, copiar, modificar, fusionar, publicar o distribuir la Guía NOML y softwares relacionados, usted acepta los términos y condiciones de esta Licencia Especial. Si no está de acuerdo con estos términos, no puede utilizar la Guía NOML ni los softwares relacionados.
-
-En caso de discrepancias entre la decisión del creador y la Asamblea del Bloque Mayor, Si la reclamación es aceptada, se sobrepondrá la decisión de la Asamblea del Bloque Mayor y se respetará la decisión del creador. Deve dejar el software al servicio del Intercongreso Contoni y de todos hasta que se pueda reemplazar por otro sofware que cumpla la misma o parecida función.
-
-Esta licencia no puede cambiar jamás sus letras al menos que sea por voto general de todos los que cuidamos y custodiamos las letras de nuevo mundo.
-
-Firma: La Asamblea General.
-](https://intercongreso.vps.co.ve/folleto/LICENSE.md
