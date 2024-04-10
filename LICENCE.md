@@ -1,4 +1,4 @@
-Licencia
+[Licencia
 
 Licencia Especial para la Guía NOML y Softwares Relacionados
 
@@ -17,3 +17,4 @@ Al utilizar, copiar, modificar, fusionar, publicar o distribuir la Guía NOML y 
 Está licencia no puede cambiar jamás sus letras al menos que sea por voto general de todos los que cuidamos y custodiamos dichas letras.
 
 Firma: La Asamblea General.
+](https://intercongreso.vps.co.ve/folleto/LICENSE.txt)
