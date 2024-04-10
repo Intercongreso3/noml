@@ -3,6 +3,7 @@ LEEME (Readme)
 # Intercongreso Contoni
 Saludos Cordiales
 # Acerca de:
+
 Intercongreso Contoni es una plataforma Guía de solo lectura que busca impulsar la colaboración y el intercambio de ideas entre humanos de todo el mundo. Su naturaleza es promover la creación de plataformas de forma libre que ayuden a la creación de proyectos de todo tipo y que contribuyan al bienestar colectivo, fomentar sistemas de valores basado en la igualdad, la participación y el desarrollo sostenible a través de sus diferentes tecnologías que se puedan aplicar en ella.  
 
 ## Visión
