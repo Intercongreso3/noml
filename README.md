@@ -27,7 +27,7 @@ La misión del Intercongreso Contoni, como una plataforma guía, es crear un ent
 Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido robar, no más miserias porque seremos una civilización avanzada, contaremos con amor de prójimo y haremos grandes cosas inimaginables hasta ahora, con hacer un pequeño esfuerzo cada quien.
 Los desarrolladores pueden crear software relacionado con la Guía NOML y licenciarlo bajo la Licencia Especial de NOML. La instalación y el uso de cada software creado dependerá de la estructura y el propósito del software en sí. Consulte la documentación de cada software para obtener información específica sobre su instalación y uso.
 
-## Mi Compromiso
+## El Compromiso
 #### Licencia y Contribución
 
 Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los humqnos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
