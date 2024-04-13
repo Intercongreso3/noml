@@ -67,10 +67,3 @@ Para más información, visita nuestra página web en [intercongreso.vps.co.ve](
 Pedro Lopez.
 
 Escritor del Intercongreso Contoni la plataforma guia del Nuevo Orden Mundial Libre.
-Cuando un desarrollador o un equipo crea software relacionado con la Guía NOML, debe incluir un reconocimiento visible dentro del software para atribuir el trabajo al desarrollador o al equipo responsable de su creación. Esto garantiza que los autores del software sean reconocidos adecuadamente por sus contribuciones al proyecto NOML.
-
-Para contribuir con el proyecto, los desarrolladores pueden crear software relacionado y notificar al equipo de mantenimiento de la Guía NOML. Por favor, incluya información detallada sobre el software, instrucciones de instalación y cómo este contribuye a los objetivos del NOML.
-
-
-
-
