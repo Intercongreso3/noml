@@ -14,29 +14,28 @@ El Intercongreso Contoni es una plataforma Guía para que puedan crear plataform
 ## Descripción
 
 ## Enfoque
-La Guía NOML y los softwares relacionados que se tienen que crear tienen que ser herramientas diseñadas para facilitar la implementación del Nuevo Orden Mundial Libre (NOML). La Guía NOML proporciona información y directrices para crear un mundo más justo y solidario, mientras que los softwares relacionados deven de proporcionar herramientas prácticas para ayudar a lograr estos objetivos.
+La Guía NOML y los softwares relacionados que se tienen que crear tienen que ser herramientas diseñadas para facilitar la implementación del Nuevo Orden Mundial Libre (NOML) (Diagrama de flujo). La Guía NOML proporciona información y directrices para crear un mundo más justo y solidario, mientras que los softwares relacionados deven de proporcionar herramientas prácticas para ayudar a lograr estos objetivos.
 
-Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre los humanos del planeta tierra,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unificándolas por medio de sistemas de Banco de Proyectos, sistemas de productividad e intercambio, sistemas para la organización social entre otros en el enlace del Flujograma o Eisgrama de flujo que muestra la forma organizariva en la siguiente uURL   https://intercongreso.vps.co.ve/folleto/flujogramaTest.html o en gitgub FlojogramaTest.html
+Se busca impulsar la colaboración, producción y el intercambio de ideas, educación, servicios y bienes en todas las ciencias entre los humanos posibles del planeta tierra,  promover la creación de plataformas de forma libre que ayuden a la creación de proyectos y contribuyan al bienestar tanto colectivo como personal unificándolas por medio de sistemas de Banco de Proyectos, sistemas de productividad e intercambio, sistemas para la organización social entre otros dentro del contexto del Flujograma o diagrama de flujo que muestra la forma organizariva en la siguiente URL   https://intercongreso.vps.co.ve/folleto/flujogramaTest.html o en github FlojogramaTest.html
 
-Los desarrolladores interesados en contribuir al proyecto pueden crear softwares relacionados con la Guía NOML y licenciarlo bajo la Licencia Especial de NOML, lo que garantiza que los beneficios del software sean devueltos a la sociedad de forma gratuita y perpetua si no existe inconvenientes.
+Los desarrolladores interesados en contribuir al proyecto pueden crear softwares relacionados con la Guía NOML y licenciarlo bajo la Licencia Especial de NOML, lo que garantiza que los beneficios del software sean devueltos a los creadores y a la sociedad de forma gratuita y perpetua si no existe inconvenientes.
 
 ## Misión 
-La misión del Intercongreso Contoni, como una plataforma guía, es crear un entorno donde las personas puedan colaborar y laborar juntos para construir un futuro más justo y equitativo para las generaciones presentes y futuras a nivel mundial. Promueve la creación de espacios donde todos puedan contribuir y desarrollar soluciones para abordar los desafíos sociales, económicos, ambientales entre otros que enfrenta la humanidad. Al fomentar la cooperación, el aprendizaje mutuo y la innovación, la plataforma Intercongreso Contoni busca mejorar la calidad de vida y promover el desarrollo sostenible en todo el mundo cde avance hacia un futuro prospero para todos.
+La misión del Intercongreso Contoni, como una plataforma guía, es crear un entorno donde las personas puedan colaborar y laborar juntos para construir un futuro más justo y equitativo para las generaciones presentes y futuras a nivel mundial. Promueve la creación de espacios donde todos puedan contribuir y desarrollar soluciones para abordar los desafíos sociales, económicos, ambientales entre otros que enfrenta la humanidad. Al fomentar la cooperación, el aprendizaje mutuo y la innovación, la plataforma Intercongreso Contoni busca mejorar la calidad de vida y promover el desarrollo sostenible en todo el mundo con avance hacia un futuro prospero para todos.
 
 ## Instalación
 
-Cambiar el sistema de vida en el mundo, no más robos porque no tendrá sentido robar, no más miserias porque seremos una civilización avanzada, contaremos con amor de prójimo y haremos grandes cosas inimaginables hasta ahora, con hacer un pequeño esfuerzo cada quien.
 Los desarrolladores pueden crear software relacionado con la Guía NOML y licenciarlo bajo la Licencia Especial de NOML. La instalación y el uso de cada software creado dependerá de la estructura y el propósito del software en sí. Consulte la documentación de cada software para obtener información específica sobre su instalación y uso.
 
 ## El Compromiso
 #### Licencia y Contribución
 
-Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los humqnos. Como músico, filántropo, poeta, artista, Pastor sin iglesia de concreto y escritor que me considero, he dedicado mi vida a servir a la humanidad y a promover el bienestar colectivo.
+Este proyecto es una iniciativa para promover un nuevo orden mundial libre, basado en la colaboración y la participación de todos los humanos posibles. 
 La Guía NOML y el software relacionado están protegidos por la Licencia Especial de NOML, que promueve el desarrollo y distribución de software libre y accesible para beneficio de la sociedad. Los desarrolladores que creen software relacionado con la Guía NOML deben licenciarlo bajo la Licencia Especial de NOML y asegurarse de que esté disponible para el público sin costo alguno.
 
-Mi sueño es crear entre todos un sistema donde cada ser, en cada UNO de nosotros tenga un espacio personal para enfocar sus proyectos y colaborar con otros en la productividad y el progreso. Es un punto de partida para esa visión, nota especial para programadores, informáticos, desarrolladores y afines para llevar a cabo "El Nuevo Mundo Libre".
+Crear entre todos un sistema donde cada ser, en cada UNO de nosotros tenga un espacio personal para enfocar sus proyectos y teniendo el control de su Nación en cada uno de sus habitantes, colaborar entre si en la productividad y el progreso. 
 
-Desde mi silla detrás de mi  mmóvil, estoy abierto a la colaboración reciproca y espero ser productivo con personas que compartan mi pasión por un mundo mejor.
+Es un punto de partida para esa visión. De antemano gracias especiales a los programadores, informáticos, desarrolladores y afines para llevar a cabo "El Nuevo Mundo Libre".
 
 Juntos, podemos hacer grandes cosas y contribuir al bienestar de la humanidad.
 
